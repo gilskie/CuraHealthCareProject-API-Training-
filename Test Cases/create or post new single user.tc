@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>part 1</description>
+   <name>create or post new single user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bb9e145-0361-4597-9ec2-a98796b84de1</testCaseGuid>
+</TestCaseEntity>
